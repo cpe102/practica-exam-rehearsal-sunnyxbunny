@@ -12,6 +12,6 @@ int main(){
 		cout<<"Enter x: ";
 		cin>>x;
    }
-	cout<<sum;
+	cout<<"sum = "<<sum;
     return 0;
 }
